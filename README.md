@@ -12,6 +12,10 @@ The following **required** functionality is complete:
 ## Notes
 I struggled with following along with parts of the tutorial video because of updates to the swift code where functions were slightly changed.
 
+## Video Walkthrough
+
+![tipsrecording_marcconner](https://cloud.githubusercontent.com/assets/17102056/12870427/514d7890-cd12-11e5-86ce-dd90578dffd6.gif)
+
 ##Code
 
 //
